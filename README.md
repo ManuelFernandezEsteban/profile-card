@@ -30,15 +30,15 @@ Esta es una solución al reto propuesto en Nuwe.io para un profile card generato
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ManuelFernandezEsteban/dialog-system.git)
-- Live Site URL: [Add live site URL here](https://manuelfernandezesteban.github.io/dialog-system/)
+- Solution URL: [Add solution URL here](https://github.com/ManuelFernandezEsteban/profile-card.git)
+- Live Site URL: [Add live site URL here](https://manuelfernandezesteban.github.io/profile-card/)
 
 
 ### Built with
 
 - HTML5
 - CSS3
-- JavaScript
+
 
 
 
